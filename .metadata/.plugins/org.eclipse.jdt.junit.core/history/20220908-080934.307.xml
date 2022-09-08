@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringCalculatorTest" project="string-calculator-tdd-master" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.tdd.StringCalculatorTest" time="0.027" displayname="StringCalculatorTest" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]">
+    <testcase name="testAddOneNumber" classname="com.tdd.StringCalculatorTest" time="0.018" displayname="Test One Number" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testAddOneNumber()]"/>
+    <testcase name="testOtherDelimiter" classname="com.tdd.StringCalculatorTest" time="0.001" displayname="Test Other Delimiter" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testOtherDelimiter()]"/>
+    <testcase name="testOverThousand" classname="com.tdd.StringCalculatorTest" time="0.001" displayname="Test Over Thousand" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testOverThousand()]"/>
+    <testcase name="testEmptyString" classname="com.tdd.StringCalculatorTest" time="0.001" displayname="Test Empty String" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testEmptyString()]"/>
+    <testcase name="testNegativeNumber" classname="com.tdd.StringCalculatorTest" time="0.002" displayname="Test Negative Number" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testNegativeNumber()]"/>
+    <testcase name="testNewLine" classname="com.tdd.StringCalculatorTest" time="0.001" displayname="Test New Line" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testNewLine()]"/>
+    <testcase name="testAddMultipleNumbers" classname="com.tdd.StringCalculatorTest" time="0.001" displayname="Test Multiple Numbers" uniqueid="[engine:junit-jupiter]/[class:com.tdd.StringCalculatorTest]/[method:testAddMultipleNumbers()]"/>
+  </testsuite>
+</testrun>
